@@ -6,5 +6,6 @@ public class Test {
             mylist[i]=i;//初始化本数组
         }
         System.out.println(mylist.length);//直接获取数组的长度
+        //一个推送到远程仓库的简单测试
     }
 }
